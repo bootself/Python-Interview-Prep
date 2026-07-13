@@ -15,4 +15,3 @@ Each question follows a consistent structure:
 - Common Mistakes
 - Follow-up Questions
 - Practice Challenge
-- BootSelf CTA
